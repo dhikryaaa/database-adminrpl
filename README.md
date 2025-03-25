@@ -4,4 +4,5 @@ DBMS: MySQL
 
 ERD
 
-![image](https://github.com/user-attachments/assets/9de0c96c-c3e8-49f0-be01-4d6e6656320e)
+![image](https://github.com/user-attachments/assets/3cfcd14a-ea26-4c88-9a81-02297c2a0822)
+
